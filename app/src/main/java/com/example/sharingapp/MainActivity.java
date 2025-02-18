@@ -12,7 +12,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-
+import com.example.sharingapp.R;
 
 /**
  * Home Activity of the App
